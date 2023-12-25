@@ -1,4 +1,4 @@
-#Sales Performance Dashboard
+Sales Performance Dashboard
 The purpose:
 to extract valuable insights,create visualisations and present findings from the sales data for one year from 2019 to 2020 .
 Tools:
